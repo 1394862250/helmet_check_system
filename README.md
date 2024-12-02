@@ -5,6 +5,10 @@
 - python 3.10 + django + sqlite
 - YOLO
 - Bootstrap5.3.0
+## 完整代码（system code）
+### Not free
+- 邮件: zoelen@qq.com
+- https://www.yuque.com/zoelen/pnmpc7/vgdngg9r5afcyn63?singleDoc#
 ---
 ## 系统展示（system preview）
 ![登录界面 login](./helmet_check_system/login.png )
@@ -14,8 +18,7 @@
 ![用户识别历史界面](./helmet_check_system/history.jpeg )
 ![用户识别分析界面](./helmet_check_system/analysis.jpeg )
 ![用户个人设置界面](./helmet_check_system/personal.jpeg )
-![管理员控制台](./helmet_check_system/.jpeg )
-![管理员-用户管理](./helmet_check_system/.jpeg )
-![管理员-违规记录](./helmet_check_system/.jpeg )
-## 完整代码（system code）
-- 
+![管理员控制台](./helmet_check_system/admin-home.jpeg )
+![管理员-用户管理](./helmet_check_system/admin-userControl.jpeg )
+![管理员-违规记录](./helmet_check_system/admin-historycontrol.jpeg )
+
